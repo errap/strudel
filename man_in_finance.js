@@ -1,6 +1,6 @@
 /* Man in finance @by Erra P. 
 
-We give thanks to the Strudel user who gave us inspiration. Their use of 'man in finance'
+We give thanks to the Strudel user v10101a who gave us inspiration. Their use of 'man in finance'
 as an audio sample was a great idea. We re-used and re-purposed the first 8 lines of code
 from them. The remaining code is our own.
 
